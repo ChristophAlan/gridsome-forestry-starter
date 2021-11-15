@@ -6,5 +6,6 @@ excerpt: Pitch for a new way JCPenney can stay relevant while advertising on mob
   platforms.
 
 ---
+[iad_campaign_demo.mp4](/uploads/iad_campaign_demo.mp4 "iad_campaign_demo.mp4")
 
 Pitch for a new way JCPenney can stay relevant while advertising on mobile platforms. Taking the popular print catalogs and digitizing them with digital interactions like share buttons, zoomable images and video content.
